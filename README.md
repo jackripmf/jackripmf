@@ -1,6 +1,28 @@
 # Привет! Я jackripmf 👋
 
-Python-разработчик, развиваюсь в машинном обучении и анализе данных. Собираю портфолио на практических задачах: от линейных моделей и качественной валидации до градиентного бустинга и прикладных веб-проектов.
+Python-разработчик на стыке backend-логики, прикладной разработки и Data Science. Собираю ботов и интеграции с внешними API, desktop-инструменты и пайплайны обработки данных; в ML прохожу весь путь от исследования и подготовки данных до валидации модели и понятного оформления результата.
+
+Сейчас основной фокус — Python, автоматизация, классическое ML, deep learning и computer vision. Также работаю с TypeScript и могу подключаться к full-stack задачам.
+
+## Карта компетенций
+
+| Направление | Что умею применять |
+| --- | --- |
+| **Backend и интеграции** | Python-сервисы, Telegram-боты, REST API, RSS, SQLite, конфигурация через переменные окружения |
+| **Прикладная разработка** | Desktop-приложения на PySide6, CLI-инструменты, автоматизация контентных и файловых процессов |
+| **Data Science** | pandas, NumPy, EDA, очистка данных, feature engineering, корректные train/validation/test-процессы |
+| **Machine Learning** | scikit-learn, линейные модели, Ridge, Gradient Boosting, подбор гиперпараметров, анализ метрик |
+| **Deep Learning и CV** | TensorFlow/Keras, CNN, LSTM, autoencoder, transfer learning, OpenCV, YOLOv8 |
+| **Инженерная практика** | Git/GitHub, pytest, Jupyter, README и воспроизводимая структура проектов, безопасная работа с секретами |
+
+## Новые проекты из Colab
+
+| Проект | Что внутри |
+| --- | --- |
+| [Gridworld Reinforcement Learning](https://github.com/jackripmf/gridworld-reinforcement-learning) | Monte Carlo, TD(0), SARSA, Q-learning, Double Q-learning, NFQ/DQN и тестируемый Python-модуль |
+| [Power Line Detection with YOLOv8](https://github.com/jackripmf/power-line-detection-yolov8) | Сегментация линий электропередачи, Roboflow, Ultralytics, безопасная конфигурация API key |
+| [Deep Learning Case Studies](https://github.com/jackripmf/deep-learning-case-studies) | Табличные данные, прогнозирование временных рядов, ResNet, autoencoder и классификация заболеваний растений |
+| [Computer Vision Notebooks](https://github.com/jackripmf/computer-vision-notebooks) | OpenCV: цветовые пространства, геометрия, пороги, контуры, линии, SIFT/ORB и Haar Cascade |
 
 ## ML-проекты
 
@@ -24,6 +46,6 @@ Python-разработчик, развиваюсь в машинном обуч
 
 ## Стек
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `PySide6` · `SQLite` · `Jupyter` · `Git` · `TypeScript`
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `TensorFlow/Keras` · `OpenCV` · `YOLOv8` · `PySide6` · `SQLite` · `Jupyter` · `pytest` · `Git` · `TypeScript`
 
-Сейчас углубляюсь в построение воспроизводимых ML-пайплайнов, корректную оценку моделей и оформление проектов для реального использования.
+Углубляюсь в воспроизводимые ML-пайплайны, backend-разработку на Python и превращение исследовательских прототипов в инструменты, которыми можно пользоваться.
