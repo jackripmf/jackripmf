@@ -15,7 +15,7 @@ Python-разработчик на стыке backend-логики, прикла
 | **Deep Learning и CV** | TensorFlow/Keras, CNN, LSTM, autoencoder, transfer learning, OpenCV, YOLOv8 |
 | **Инженерная практика** | Git/GitHub, pytest, Jupyter, README и воспроизводимая структура проектов, безопасная работа с секретами |
 
-## Избранные проекты
+## ML-проекты
 
 | Проект | Что внутри |
 | --- | --- |
@@ -23,11 +23,6 @@ Python-разработчик на стыке backend-логики, прикла
 | [Power Line Detection with YOLOv8](https://github.com/jackripmf/power-line-detection-yolov8) | Сегментация линий электропередачи, Roboflow, Ultralytics, безопасная конфигурация API key |
 | [Deep Learning Case Studies](https://github.com/jackripmf/deep-learning-case-studies) | Табличные данные, прогнозирование временных рядов, ResNet, autoencoder и классификация заболеваний растений |
 | [Computer Vision Notebooks](https://github.com/jackripmf/computer-vision-notebooks) | OpenCV: цветовые пространства, геометрия, пороги, контуры, линии, SIFT/ORB и Haar Cascade |
-
-## ML-проекты
-
-| Проект | Что внутри |
-| --- | --- |
 | [Melbourne House Price](https://github.com/jackripmf/melbourne-house-price) | Gradient Boosting, GridSearchCV, сравнение трёх итераций модели |
 | [Car Price Regression](https://github.com/jackripmf/car-price-regression) | Линейная регрессия вручную и через scikit-learn, Ridge, preprocessing |
 | [California Housing](https://github.com/jackripmf/california-housing-regression) | Linear Regression, Ridge, StandardScaler, train/validation/test split |
