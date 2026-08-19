@@ -15,7 +15,7 @@ Python-разработчик на стыке backend-логики, прикла
 | **Deep Learning и CV** | TensorFlow/Keras, CNN, LSTM, autoencoder, transfer learning, OpenCV, YOLOv8 |
 | **Инженерная практика** | Git/GitHub, pytest, Jupyter, README и воспроизводимая структура проектов, безопасная работа с секретами |
 
-## Новые проекты из Colab
+## Избранные проекты
 
 | Проект | Что внутри |
 | --- | --- |
